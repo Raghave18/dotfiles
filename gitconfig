@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raghave18@gmail.com
+	name = Raghave Gupta
